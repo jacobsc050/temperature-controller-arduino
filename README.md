@@ -1,4 +1,5 @@
 # Temperature Controller with an Aduino
+### Skills: Ardunio, calibration, construction of power supply
 
 Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
 
