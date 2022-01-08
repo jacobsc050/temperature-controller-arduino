@@ -12,7 +12,7 @@ Inputs went into the Ardunio from a thermistor which was calibrated (converting 
 
 <img src=https://github.com/jacobsc050/temperature-controller-arduino/blob/main/image.png>
 
-When the thermistor input a temperature that was not the target tempererature the Ardunio signalled the powerbox to switch the heater on or off. 
+When the thermistor input a temperature that was not the target tempererature the Ardunio signalled the power supply to switch the heater on or off. 
 
 
 
