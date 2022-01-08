@@ -1,7 +1,7 @@
 # Temperature Controller with an Aduino
 ### Skills: Ardunio, calibration, construction of power supply
 
-![Arduino code](https://github.com/jacobsc050/temperature-controller-arduino/blob/main/arduino-code.ino)
+[Arduino code](https://github.com/jacobsc050/temperature-controller-arduino/blob/main/arduino-code.ino)
 
 
 Using an arduino, thermistor, and imersion water heater I explored keeping the temperature of water constant.
